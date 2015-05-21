@@ -6,18 +6,18 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>Jacky's Landing Page!</title>
         <link rel="stylesheet" href="css/main.css">
+        <link href='http://fonts.googleapis.com/css?family=Poiret+One' rel='stylesheet' type='text/css'>
     </head>
     <body>
-    	<link href='http://fonts.googleapis.com/css?family=Poiret+One' rel='stylesheet' type='text/css'>
-<center><a href="">Contact Me</a></center>
-
-  </div>
-</div>
+    	<canvas id="canv"></canvas>
     	<div class="links">
+    		<a id="AboutMe" href="aboutme.php">About Me</a>
+    	    <a id="Projects" href="projects.php">Projects</a>
     		<a id="ContactMe" href="contact.php">Contact Me</a>
     	</div>
-        <canvas id="canv"></canvas>
-	<h1>Welcome to My Landing Page!</h1>
+        
+		<h1>Welcome to My Landing Page!</h1>
+        
         <script src="js/main.js"></script>
     </body>
 </html>
