@@ -69,6 +69,13 @@
     </a>
   </div>
 </div>
+<br>
+<br>
+<div class="ProjectDiv">
+    These are the projects that I did this year. The first and second photo is a game I made called "Awesomenauts." Its a game where you kill the bad
+    guys and when you kill them you get gold points! The third and fourth photo is a project about showing an instagram account when you
+    press login. The last two photos is a "ToDoApp" that you write what you like on there.
+</div>
 
 </body>
 </html>

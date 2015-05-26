@@ -73,3 +73,37 @@ a:hover{
   background-image: url(http://fc08.deviantart.net/fs71/i/2012/208/9/e/light_red_by_ohsnapjenny-d58syq4.jpg);
   background-size: 100%;
 }
+
+.ProjectDiv{
+  font-size: 25px;
+  font-family: Courier, monospace; 
+  text-align: center;
+  color: black;
+}
+
+
+#aboutmeproject{
+  background-image: url(http://38.media.tumblr.com/71c143460a18c80aad75902fb57d6a47/tumblr_inline_n41xr17lez1sxudqk.png);
+  background-size: 100%;
+}
+
+
+.AboutmeDiv{
+  font-size: 25px;
+  font-family: Courier, monospace; 
+  text-align: center;
+  color: black;
+}
+
+#contactproject{
+  background-image: url(http://pixel.brit.co/wp-content/uploads/2013/04/27-Ombre-645x403.jpg);
+  background-size: 100%;
+}
+
+
+.contactDiv{
+  font-size: 25px;
+  font-family: Courier, monospace; 
+  text-align: center;
+  color: black;
+}
