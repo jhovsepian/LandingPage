@@ -79,6 +79,7 @@ a:hover{
   font-family: Courier, monospace; 
   text-align: center;
   color: black;
+
 }
 
 
@@ -93,6 +94,18 @@ a:hover{
   font-family: Courier, monospace; 
   text-align: center;
   color: black;
+
+}
+
+.PicofmeDiv {
+  font-size: 30px;
+  font-family: Courier, monospace;
+  text-align: center;
+
+}
+
+.MepicDiv {
+  text-align: center;
 }
 
 #contactproject{

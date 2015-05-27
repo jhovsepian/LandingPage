@@ -16,6 +16,7 @@
   </style>
   <link rel="stylesheet" type="text/css" href="css/main.css">
 </head>
+<FORM><INPUT Type="button" VALUE="Back" onClick="history.go(-1);return true;"></FORM>
 <body id="bodyproject">
 
 <div class="container">

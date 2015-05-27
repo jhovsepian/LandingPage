@@ -8,6 +8,7 @@
         <link rel="stylesheet" href="css/main.css">
         
     </head>
+    <FORM><INPUT Type="button" VALUE="Back" onClick="history.go(-1);return true;"></FORM>
      <body id="contactproject">
 
  <h2>Send e-mail to jhovsepian1018@gmail.com:</h2>
