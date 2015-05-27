@@ -6,10 +6,11 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>Contact Me</title>
         <link rel="stylesheet" href="css/main.css">
+        
     </head>
      <body id="contactproject">
-     <h2>Send e-mail to jhovsepian1018@gmail.com:</h2>
 
+ <h2>Send e-mail to jhovsepian1018@gmail.com:</h2>
 <form action="MAILTO:jhovsepian1018@gmail.com" method="post" enctype="text/plain">
 Name:<br>
 <input type="text" name="name" value="Enter name"><br>
@@ -35,7 +36,7 @@ Comment:<br>
         Instagram: jacky.hovsepian
         <br>
         </div>
-        <a href="http://instagram.com/jacky.hovsepian"><img src="http://blog.lemuriabooks.com/wp-content/uploads/instagram-icon-small.png" alt=""></a>
+       
         <script src="js/main.js"></script>
     </body>
 </html>

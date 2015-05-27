@@ -6,6 +6,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>Jacky's Landing Page!</title>
         <link rel="stylesheet" href="css/main.css">
+        <link rel="stylesheet" href="css/main.css">
         <link href='http://fonts.googleapis.com/css?family=Poiret+One' rel='stylesheet' type='text/css'>
     </head>
     <body>
