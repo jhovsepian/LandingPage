@@ -11,6 +11,7 @@
     <body id="aboutmeproject">
         
     <div class="AboutmeDiv">
+    <br>
         Hello there, my name is Jacqueline Hovsepian. I am a 10th grader that attends Pasadena High School. This is my second year of coding, in these two years
         I have learned about HTML, CSS, PHP, and JAVASCRIPT. Coding is a wonderful experience and I think you should try it. You get to make websites 
         and games! Thanks for visiting my Landing Page! 
