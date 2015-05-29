@@ -16,15 +16,11 @@
         I have learned about HTML, CSS, PHP, and JAVASCRIPT. Coding is a wonderful experience and I think you should try it. You get to make websites 
         and games! Thanks for visiting my Landing Page! 
         </div>
-        <div class="PicofmeDiv">
+        <div>
         <br>
         <br>
-        This is Me!
-        </div>
-        <div class="MepicDiv">
-        <br>
-        <br>
-        <img src="img/IMG_1065.jpg" alt="me" style="width:304px;height:320px;">
+        <p class="pictext">This is Me!</p>
+        <center><img src="img/IMG_1065.jpg" alt="me" style="width:304px;height:320px;border-radius: 5px;"></center>
         <script src="css/main.css"></script>
         </div>
         
