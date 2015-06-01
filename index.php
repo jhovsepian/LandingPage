@@ -14,7 +14,7 @@
     	<div class="links">
     		<a id="AboutMe" href="aboutme.php">About Me</a>
     	    <a id="Projects" href="projects.php">Projects</a>
-    		<a id="ContactMe" href="contact.php">Contact Me</a>
+    		<a id="ContactMe" href="contact.php">Contact</a>
     	</div>
         
 		<h1>Welcome to My Landing Page!</h1>

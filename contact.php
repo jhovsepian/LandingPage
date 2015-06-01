@@ -6,7 +6,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>Contact Me</title>
         <link rel="stylesheet" href="css/main.css">
-        
+       
     </head>
     <FORM><INPUT Type="button" VALUE="Back" onClick="history.go(-1);return true;"></FORM>
      <body id="contactproject">
@@ -18,12 +18,15 @@
         <br>
         Email: jhovsepian1018@gmail.com
         <br>
-        <br>
         <p class="number">Phone Number:<p "digits">***-***-****</p></p>
         Instagram: jacky.hovsepian
         <br>
         </div>
-
+        <br>
+        <br>
+         <a href="http://instagram.com/jacky.hovsepian" class="instagram-share-button" data-count="vertical" data-via="YourSite" style="margin-left: 600px">Instagram</a>
+         <br>
+         <br>
         <h2 class="emailheader">Send e-mail to jhovsepian1018@gmail.com:</h2>
         <center><form class="contactform" action="MAILTO:jhovsepian1018@gmail.com" method="post" enctype="text/plain">
         Name:<br>
